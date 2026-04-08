@@ -1,0 +1,644 @@
+id,answer
+CORP-TAX-001,"Der Körperschaftsteuer ist das Einkommen zugrunde zu legen, das der unbeschränkt Steuerpflichtige innerhalb eines Kalenderjahres bezogen hat."
+CORP-TAX-002,"Bei einem zinslosen Darlehen an den Gesellschafter besteht keine steuerliche Abgeltungswirkung für die Körperschaft, sofern kein Veranlagungsrecht vorgegeben ist."
+CORP-TAX-003,"Die Körperschaften, die sämtliche Einkünfte den Einkünften aus Gewerbebetrieb zuzurechnen haben, sind unter § 7 Abs. 3 KStG verpflichtet."
+CORP-TAX-004,"Ein Dividende von einer österreichischen Tochtergesellschaft (a) und eine Dividende von der österreichischen Muttergesellschaft (b) werden bei der Steuerpflicht nach § 10 KStG behandelt. Gewinnanteile aus solchen Beträge gehören zu den befreiten Beteiligungserträgen, die nicht für die E"
+CORP-TAX-005,"Die steuerliche Behandlung einer offenen von einer verdeckten Ausschüttung auf Ebene der ausschüttenden Körperschaft unterscheidet sich durch die Veranlagung. Bei offenem Steuerpflichten gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch"
+CORP-TAX-006,"Der maximal mögliche Verlustabzug beträgt 75 Prozent des Gesamtbetrags der Einkünfte. Ausnahmen bestehen darin, dass die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+CORP-TAX-007,"Ein Mantelkauf bedeutet, dass die Identität des Steuerpflichtigen aufgrund von wesentlichen Strukturänderungen auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist. Dies führt zum Verlustabzug der Körperschaft."
+CORP-TAX-008,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+CORP-TAX-009,"Die Verlustverrechnung von ausländischen Gruppenmitgliedern unterscheidet sich von der inländischer Gruppenmitglieder durch die Umfangsbeschränktheit. Ausländische Körperschaften können als Gruppenmitglieder betrachtet werden, wenn sie im EU-Mitgliedstaat oder einem Staat"
+CORP-TAX-010,"Ist eine nach § 5 oder nach anderen Bundesgesetzen befreite Körperschaft nur teilweise unbeschränkt steuerpflichtig, dürfen Aufwendungen nur insoweit abgezogen werden, als sie mit steuerpflichtigen Erträgen und Einnahmen unmittelbar zusammenhängen."
+CORP-TAX-011,Gruppenmitglieder können nicht Mitbeteiligte einer Beteiligungsgemeinschaft sein.
+CORP-TAX-012,"Eine Dividende einer ausländischen EU-Tochtergesellschaft, die 15 % der Gesamtdividenden entspricht und seit zwei Jahren gehalten wird, kann als steuerfreier Beteiligungsertrag behandelt werden, wenn sie innerhalb des EU-Vertrags oder in einem Staat mit umfassender Amtshilfe ansä"
+CORP-TAX-013,"§ 10 KStG ermöglicht die Befreiung von Beteiligungserträgen, während § 12 Abs. 1 Z 10 KStG eine Ausnahme für Lizenzgebühren bildet. Diese beiden Vorschriften sind auf denselben Konzern anwendbar, da sie sich auf unterschiedliche Aspekte der Ste"
+CORP-TAX-014,"Die internationale Schachtelbeteiligung ist Teil des Befreiungssystems für Beteiligungserträge nach § 10 KStG, wenn sie die gesetzlichen Voraussetzungen erfüllt."
+CORP-TAX-015,"Veräußerungsgewinne aus internationalen Schachtelbeteiligungen grundsätzlich gehören zu den befreiten Beteiligungserträgen, wie es in § 10 KStG gesagt wird."
+CORP-TAX-016,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+CORP-TAX-017,"§ 11 KStG ermöglicht den Betriebsausgabenabzug für Aufwendungen, die mit Einlagen und Beiträgen nach § 8 Abs. 1 in unmittelbarer wirtschaftlicher Verbindung stehen. Insgesamt sind diese Ausgaben abzugsfähig. § 12 KStG untersucht Aufwendungen, die nach all"
+CORP-TAX-018,"Freiwillige Spenden zu gemeinnützigen Zwecken sind grundsätzlich abzugsfähig, solange sie nicht als Sonderausgaben oder Bezüge aus bestimmten körperschaftlich organisierten Personengemeinschaften dienen."
+CORP-TAX-019,"Die Aufwendungen, die bei einer GmbH steuerlich nicht oder nur teilweise abzugsfähig sind, sind (a) EU-Geldbuße und (c) Aufsichtsratsvergütung."
+CORP-TAX-020,"Lizenzgebühren an eine konzernzugehörige Gesellschaft sind nicht abzugsfähig, wenn sie für die Betriebsausgaben der Gesellschaft dienen."
+CORP-TAX-021,Der Gewinn bei rechnungslegungspflichtigen Körperschaften ist nach § 5 EStG zu ermitteln.
+CORP-TAX-022,"§ 7 Abs. 3 KStG prüft, ob die Gruppe unter § 9 KStG gebildet werden kann."
+CORP-TAX-023,"Die GmbH muss den Verlustabzug abzahlen, bis zum Ende des Wirtschaftsjahres nach dem Verlustjahr. Ab diesem Zeitpunkt ist der Mantelkauf nicht mehr anwendbar, da die Änderung zur Sanierung des Steuerpflichtigen erfolgt hat und nicht auf entgeltliche Grundlage gegeben sein muss."
+CORP-TAX-024,Der Gewinnermittlungszeitraum für die Körperschaftsteuer ist das Wirtschaftsjahr.
+CORP-TAX-025,Einlagen und Beiträge von Gesellschaftern oder Mitgliedern bleiben bei der Ermittlung des Einkommens grundsätzlich außer Ansatz.
+CORP-TAX-026,"Der Verlustabzug gemäß § 8 Abs. 4 Z 2 lit. b KStG ist nicht auf 75 % begrenzt, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+CORP-TAX-027,Die Mindestbeteiligungsquote für die finanzielle Verbindung im Sinne des § 9 KStG beträgt mindestens 20%.
+CORP-TAX-028,"Das steuerlich maßgebende Ergebnis eines Gruppenmitglieds wird jenem Wirtschaftsjahr des beteiligten Gruppenmitglieds oder Gruppenträgers zugerechnet, in das der Bilanzstichtag des Gruppenmitglieds fällt."
+CORP-TAX-029,"Die Vorgruppenverluste, die aus Teilwertabschreibungen auf Beteiligungen an Körperschaften einer anderen Unternehmensgruppe stammen, werden nicht mit dem Gruppengewinn verrechnet. Sie sind als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüll"
+CORP-TAX-030,"Die österreichische Körperschaft kann als Gruppenträger fungieren, wenn sie in Deutschland unbeschränkt steuerpflichtig ist und ausschließlich finanziell mit der Gruppe verbunden sind."
+CORP-TAX-031,"Vorgruppenverluste sind die Verluste, die ein Mitglied einer körperschaftlichen Personengemeinschaft aus dem gemeinsamen Vermögen erlitten hat. Diese Verluste werden innerhalb der Gruppe behandelt, indem sie als Sonderausgabe abzuziehen stehen, soweit die gesetzlichen Voraussetzungen"
+CORP-TAX-032,"Der Verlustabzug steht ab jenem Zeitpunkt nicht mehr zu, ab dem die Identität des Steuerpflichtigen infolge einer wesentlichen Strukturänderung auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist."
+CORP-TAX-033,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+CORP-TAX-034,"Die Normen, die für die Veräußerung einer internationally geschachtelten Beteiligung und gleichzeitig Vorjahresverluste bestehen sollen, sind in § 10 KStG beschrieben. Diese Regelung ermöglicht es, Gewinnanteile aus solchen Beträge zu freien Beteiligungserträgen zu machen, wenn die ges"
+CORP-TAX-035,"Bestimmte Gewinnanteile aus ausländischen Körperschaften können ebenfalls steuerfreie Beteiligungserträge sein, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+CORP-TAX-036,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+CORP-TAX-037,"Bestimmte Gewinnanteile aus ausländischen Körperschaften können ebenfalls steuerfreie Beteiligungserträge sein, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+CORP-TAX-038,"Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen gelten Aufwendungen als Betriebsausgaben, soweit sie mit Einlagen und Beiträgen nach § 8 Abs. 1 in unmittelbarem wirtschaftlichen Zusammenhang stehen."
+CORP-TAX-039,"Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen gelten Aufwendungen als Betriebsausgaben, soweit sie mit Einlagen und Beiträgen nach § 8 Abs. 1 in unmittelbarem wirtschaftlichen Zusammenhang stehen."
+CORP-TAX-040,"Zinsen für konzerninterne Beteiligungsfinanzierungen sind nicht abzugsfähig, wenn die Anteile nicht zum Betriebsvermögen zählen."
+CORP-TAX-041,"Der Gewinn eines abweichenden Wirtschaftsjahres wird erfasst im Kalenderjahr, in dem das Wirtschaftsjahr endet."
+CORP-TAX-042,Einkommen einer Körperschaft wird berechnet als grundsätzlich der Gesamtbetrag der Einkünfte nach Verlustausgleich und Abzug von Sonderausgaben sowie des Freibetrags für begünstigte Zwecke.
+CORP-TAX-043,Die §§ 7–12 KStG sind typischerweise bei der Überleitung vom Handelsbilanzgewinn zum steuerpflichtigen Einkommen einer rechnungslegungspflichtigen GmbH relevant.
+CORP-TAX-044,"Für die Ermittlung des Einkommens ist es ohne Bedeutung, ob das Einkommen verdeckt ausgeschüttet wird."
+CORP-TAX-045,"Ja, die Verlustvorträge bleiben abzugsfähig insoweit, als bis zum Ende des Wirtschaftsjahres der Änderung stille Reserven steuerwirksam aufgedeckt werden."
+CORP-TAX-046,"Der Mantelkauf und der Verlust von Verlossvorträgen sind beide Ausnahmen aus dem Steuerverfahren, die auf wesentliche Strukturänderungen folgen. Der Mantelkauf gilt ab jenem Zeitpunkt nicht mehr für den Verlustabzug, wenn die Identität des Steuerpflichtigen infolge einer wesentlichen Struktur"
+CORP-TAX-047,"Nach einem Mantelkauf kann eine Körperschaft ihre Verluste grundsätzlich nicht mehr nutzen, da die Identität des Steuerpflichtigen auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist. Eine Ausnahme besteht bei Sanierungsausnahmen, wenn Änderungen zur Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze"
+CORP-TAX-048,Rückvergütungen von inländischen Erwerbs- und Wirtschaftsgenossenschaften nach § 8 Abs. 3 Z 2 zählen zu den Beteiligungserträgen.
+CORP-TAX-049,"Ab dem Zeitpunkt, als die Identität des Steuerpflichtigen auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist, stehen Mantelkauf und Verlustabzug ab diesem Zeitpunkt nicht mehr zu."
+CORP-TAX-050,"Die Unternehmensgruppe bietet den steuerlichen Vorteil, dass die Körperschaftsteuer für das gesamte Einkommen der Gruppenmitgliedern abgegolten wird, ohne dass es sich auf eine beschränkte Teilmenge beschränkt."
+CORP-TAX-051,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+CORP-TAX-052,Gruppenmitglieder können nicht Mitbeteiligte einer Beteiligungsgemeinschaft sein.
+CORP-TAX-053,"Bestimmte Gewinnanteile aus ausländischen Körperschaften können steuerfrei sein, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+CORP-TAX-054,"Die 'Option zur Steuerwirksamkeit' ist eine Regel, die in den deutschen Steuersystemen verwendet wird. Sie ermöglicht es, dass die Körperschaftsteuer für bestimmte Einkünfte grundsätzlich durch den Steuerabzug als abgegolten gilt, solange keine Veranlagung vorgegeben ist. Diese Option wurde im Jahr"
+CORP-TAX-055,"Die bisherigen stillen Reserven aus inländischen Kapitalgesellschaften, die durch Sitzverlegung einer inländischen Tochtergesellschaft ins Ausland entstehen, werden nicht begünstigt. Sie gehören zu den befreiten Beteiligungserträgen gemäß § 10 KStG und sind daher nicht mehr im Sinne des"
+CORP-TAX-056,"Zinsen für die Fremdfinanzierung einer Beteiligung, wenn der Verkäufer konzernfremd ist, sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+CORP-TAX-057,"Ist eine nach § 5 oder nach anderen Bundesgesetzen befreite Körperschaft nur teilweise unbeschränkt steuerpflichtig, dürfen Aufwendungen nur insoweit abgezogen werden, als sie mit steuerpflichtigen Erträgen und Einnahmen unmittelbar zusammenhängen."
+CORP-TAX-058,"Ist eine nach § 5 oder nach anderen Bundesgesetzen befreite Körperschaft nur teilweise unbeschränkt steuerpflichtig, dürfen Aufwendungen nur insoweit abgezogen werden, als sie mit steuerpflichtigen Erträgen und Einnahmen unmittelbar zusammenhängen."
+CORP-TAX-059,"Strafen und Geldbußen, die von Gerichten, Verwaltungsbehörden oder Organen der Europäischen Union verhängt werden, sind nicht abzugsfähig."
+CORP-TAX-060,Einlagen und Beiträge von Gesellschaftern oder Mitgliedern bleiben bei der Ermittlung des Einkommens grundsätzlich außer Ansatz.
+TAX-INTL-001,"Die Wiener Wohnung in Österreich gründet eine unbeschränkte Steuerpflicht, da sie die Geschäftsleitung oder den Sitz der Körperschaft behält."
+TAX-INTL-002,"Ja, er ist beschränkt steuerpflichtig. Seine Mieteinkünfte im Sinne des § 21 KStG sind abzugsfähig."
+TAX-INTL-003,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-004,"Die Zweitwohnung führt nicht allein zur unbeschränkten Steuerpflicht, da die steuerpflichtige Sitz- oder Geschäftsleitung im Inland zu bestimmen ist."
+TAX-INTL-005,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-006,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+TAX-INTL-007,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+TAX-INTL-008,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-009,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-010,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-011,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-012,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-013,Rückvergütungen von inländischen Erwerbs- und Wirtschaftsgenossenschaften nach § 8 Abs. 3 Z 2 zählen zu den Beteiligungserträgen.
+TAX-INTL-014,"Die Einkünfte, die vor dem Zuzug in Belgien erzielt wurden und auch zugeflossen sind, können nicht mehr nachträglich zu erfassen sein."
+TAX-INTL-015,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-016,"Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes, einschließlich von Hotelaufenthalten."
+TAX-INTL-017,"Ein ausländischer Saisonarbeiter, der vier Monate in Tirol arbeitet und danach zurückkehrt zu seinem Heimatstaat, hat nach den Richtlinien grundsätzlich einen gewöhnlichen Aufenthalt in Österreich. Er gilt als Ausländer und trägt die Steuerpflicht für seine Einkünfte im Sinne des Einkommen"
+TAX-INTL-018,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-019,"Ja, ab Januar 2026 ist er unbeschränkt steuerpflichtig."
+TAX-INTL-020,"Die beschränkte Steuerpflicht endet, wenn die Körperschaft in Österreich weder ihre Geschäftsleitung noch ihren Sitz hat."
+TAX-INTL-021,"Ja, er kann auf Antrag wie ein unbeschränkt Steuerpflichtiger behandelt werden. Seine Einkünfte im Sinne des Einkommensteuergesetzes sind aus Österreich, sodass die unbeschränkte Steuerpflicht erstreckt sich auf seine österreichischen Einkünfte."
+TAX-INTL-022,"Die EU-Bürgerin kann den Antrag nach § 1 Abs. 4 EStG 1988 stellen, da sie nicht in Österreich steuerpflichtige Auslandseinkünfte hat und somit unter dem Grenzwert von 10.000 Euro nicht steuerpflichtig sein muss."
+TAX-INTL-023,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-024,"Die nicht in Österreich steuerpflichtigen Auslandseinkünfte müssen für den Antrag nach § 1 Abs. 4 EStG 1988 nachgewiesen werden, da sie unter dem Gesetz auf die Gewinnermittlung nach § 5 EStG zu ermitteln sind."
+TAX-INTL-025,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-026,"Ein beschränkt Steuerpflichtiger kann in der Veranlagung den Familienbonus Plus oder den Alleinverdienerabsetzbetrag beanspruchen, wenn es sich um steuerfreie Zuwendungen handelt und nicht eine Veranlagung vorgeschrieben ist."
+TAX-INTL-027,"Sonderausgaben bei beschränkt Steuerpflichtigen sind abzugsfähig, wenn ein Inlandsbezug besteht."
+TAX-INTL-028,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+TAX-INTL-029,Die außergewöhnlichen Belastungen nach § 34 EStG und § 35 EStG sind bei beschränkter Steuerpflicht nicht anwendbar.
+TAX-INTL-030,"Die Veranlagung nach § 102 EStG 1988 erfolgt für beschränkte Steuerpflichtige, die neben ihrem österreichischen Arbeitslohn andere veranlagungspflichtige österreichische Einkünfte erhoehen."
+TAX-INTL-031,"Ja, eine Veranlagung ist vorgesehen. Ein beschränkt steuerpflichtiger Arbeitnehmer hat zeitweise zwei getrennte lohnversteuerte österreichische Dienstverhältnisse im selben Kalenderjahr. Die Körperschaftsteuer wird nach Ablauf des Kalenderjahres veranlagt, unabhängig von"
+TAX-INTL-032,"Ein beschränkt Steuerpflichtiger kann veranlagt werden, obwohl von seinen inländischen Einkünften weder Lohnsteuer noch KESt noch Abzugsteuer nach § 99 EStG 1988 bis § 101 EStG 1988 vorzunehmen ist."
+TAX-INTL-033,"Bei beschränkt lohnsteuerpflichtigen Arbeitnehmern werden dieselben Absetzbeträge wie bei unbeschränkten Steuerpflichtigen berücksichtigt, da sie nach dem maßgebenden Gesamtbetrag der Einkünfte steuereinsatzlos sind."
+TAX-INTL-034,"Bei beschränkt Steuerpflichtigen gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten, sofern nicht eine Veranlagung vorgeschrieben ist."
+TAX-INTL-035,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-036,"Die Ausgaben dürfen insoweit abgezogen werden, als sie steuerpflichtige Erträgen und Einnahmen unmittelbar zusammenhängen."
+TAX-INTL-037,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-038,"Die Auslandseinkünfte eines in Österreich ansässigen Steuerpflichtigen können unter bestimmten Voraussetzungen steuerfrei sein, wenn sie gemäß § 10 KStG als Beteiligungsertrag betrachtet werden."
+TAX-INTL-039,Die Auslandseinkünfte eines in Österreich ansässigen Steuerpflichtigen werden nach § 5 EStG ermittelt.
+TAX-INTL-040,"Ja, ausländische Einkünfte werden stets nach österreichischem Steuerrecht ermittelt."
+TAX-INTL-041,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-042,"Ja, ein in Österreich unbeschränkt Steuerpflichtiger mit seinem gesamten Welteinkommen ist steuerpflichtig auch wenn einzelne Einkünfte bereits im Ausland besteuert wurden."
+TAX-INTL-043,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-044,"Für die Ermittlung des Einkommens ist es ohne Bedeutung, ob das Einkommen im Wege offener Ausschüttungen verteilt wird."
+TAX-INTL-045,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-046,"Die Veranlagung bei beschränkter Steuerpflichtigen erfolgt nach dem maßgebenden Gesamtbetrag der Einkünfte, wobei die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten gilt."
+TAX-INTL-047,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-048,"Die ausländische Steuer wird nicht abzuziehen, sondern die Auslandseinkünfte vollständig auszunehmen."
+TAX-INTL-049,"Auch vergleichbare nicht unbeschränkt steuerpflichtige Körperschaften können Gruppenmitglieder sein, wenn sie in einem EU-Mitgliedstaat oder in einem Staat mit umfassender Amtshilfe ansässig und ausschließlich finanziell mit der Gruppe verbunden sind."
+TAX-INTL-050,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-051,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-052,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-053,Die beschränkte Steuerpflicht für selbständige Arbeit im Inland ist nicht unbedingt durch eine österreichische Betriebsstätte erforderlich.
+TAX-INTL-054,"Die gewerblichen Einkünfte eines in Liechtenstein ansässigen Unternehmers in Österreich unterliegen der beschränkten Steuerpflicht, da er die Geschäftsleitung und den Sitz im Inland hat."
+TAX-INTL-055,"Ja, dadurch können gewerbliche Einkünfte in Österreich beschränkt steuerpflichtig entstehen."
+TAX-INTL-056,"Ja, ein in Italien ansässiger Unternehmer mit einem Inlandseigentum ohne dort seinen Sitz hat eine beschränkte Steuerpflicht."
+TAX-INTL-057,"Die Einkünfte des ausländischen Beratungsunternehmens sind nicht steuerpflichtig, da sie in Österreich keine Betriebsstätte oder ständigen Vertreter haben."
+TAX-INTL-058,"Ein slowakisches Unternehmen, das Arbeitskräfte zur Arbeitsausübung in Österreich stellt und ohne österreichische Betriebsstätte steuerpflichtig ist, erhält auch beschränkte Steuerpflicht."
+TAX-INTL-059,"Die gewerblichen Einkünfte des Musikers unterliegen der beschränkten Steuerpflicht, da er in Wien ansässig ist und keine Betriebsstätte im Inland hat."
+TAX-INTL-060,"Ja, seine Arbeitslohneinkünfte in Österreich sind beschränkt steuerpflichtig."
+TAX-INTL-061,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-062,"Die Einkünfte von Personen in Frankreich, die eine Eigentumswohnung in Innsbruck vermietet, sind nicht beschränkt steuerpflichtig."
+TAX-INTL-063,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-064,"Die Einkünfte des Landwirts sind beschränkt steuerpflichtig, da sie nicht aus Gewerbebetrieb stammen."
+TAX-INTL-065,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-066,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+TAX-INTL-067,"Zinsen für § 98 Abs. 1 Z 5 lit. b EStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+TAX-INTL-068,"Ja, unterliegen Kapitalerträge eines beschränkten Steuerpflichtigen auch dann der beschränkten Steuerpflicht, wenn für sie eine KESt-Befreiung nach § 94 EStG 1988 besteht."
+TAX-INTL-069,"Die beschränkte Steuerpflicht bestimmt sich auf Einkünfte im Sinne des § 21 KStG, die nicht von einer früheren Tätigkeit abgeleitet sind."
+TAX-INTL-070,"Ein in Portugal ansässiger Künstler mit Einkünften aus unselbständiger Arbeit in Österreich kann beschränkt steuerpflichtig sein, wenn seine Geschäftsleitung und Sitz im Inland nicht vorhanden sind."
+TAX-INTL-071,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften sowie vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+TAX-INTL-072,"Bei beschränkt lohnsteuerpflichtigen Arbeitnehmern kann die Lohnsteuer grundsätzlich nach dem normalen Tarif berechnet werden, jedoch mit Kürzung bestimmter Absetzbeträge."
+TAX-INTL-073,"Die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, gilt grundsätzlich durch den Steuerabzug als abgegolten."
+TAX-INTL-074,"Die Veranlagung beschränkt Steuerpflichtiger erfolgt nach dem maßgebenden Gesamtbetrag der Einkünfte, wobei Aufwendungen nur abgezogen werden können, wenn sie unmittelbar mit steuerpflichtigen Erträgen und Einnahmen zusammenhängen."
+TAX-INTL-075,Der Verlustabzug steht grundsätzlich nur im Ausmaß von 75 Prozent des Gesamtbetrags der Einkünfte zu.
+TAX-INTL-076,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+TAX-INTL-077,"Ein aus dem Ausland nach Österreich zuziehender Spitzenforscher kann eine Zuzugsbegünstigung beantragen, wenn er in einem EU-Mitgliedstaat oder einem Staat mit umfassender Amtshilfe ansässig und ausschließlich finanziell mit der Gruppe verbunden ist."
+TAX-INTL-078,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+TAX-INTL-079,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+TAX-INTL-080,"Die Zuzugsbegünstigung gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+ESTG-NEW-001,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+ESTG-NEW-002,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG-NEW-003,Verbandsgeldbußen nach dem Verbandsverantwortlichkeitsgesetz sind nicht abzugsfähig.
+ESTG-NEW-004,Die steuerpflichtige Tauschgeschwindigkeit bei der Einzahlung und Entnahme erfolgt im Ausmaß von 75 Prozent des Gesamtbetrags der Einkünfte.
+ESTG-NEW-005,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG-NEW-006,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+ESTG-NEW-007,"Ja, die Einordnung korrekt. Die Erträge werden als Zinsen aus Kapitalforderungen (§ 27 Abs. 2 Z 2 EStG) abzugsfähig betrachtet und können im Rahmen der Veranlagung als Werbungskosten angeschaut werden."
+ESTG-NEW-008,"Die Staking-Rewards für die 8 ETH, die im Jahr 2026 gutgeschrieben wurden, sind abzugsfähig bis zu einem Betrag von 30 Prozent des steuerlichen EBITDA. In diesem Fall beträte das ständige Verhältnis der Steuerbelastung für die Staking-Rewards den Anteil von"
+ESTG-NEW-009,"Die Stockdividende in Österreich ist steuerfrei, da sie nicht auf Gesellschaftsmitteln beruht und somit nicht im Sinne des § 10 KStG als Betriebsausgabe abzugsfähig sind."
+ESTG-NEW-010,"Ein Unstaking ist steuerpflichtig, wenn die Staking-Rewards nicht abzugsfähig sind. In diesem Fall betrugen die Staking-Rewards 0,5 SOL pro Epochen (~6 Tage), was den Gesamtbetrag von 3 Epochen (18 Tagen) um 1,5 SOL übersteigen würde. Daher ist es"
+ESTG-NEW-011,"Frau Lang kann den Gesamtverlust aus Krypto und die Dividenden verrechnen, indem sie die Anteile zum Betriebsvermögen zählen. Die Verlustvorträge bleiben abzugsfähig, soweit bis zum Ende des Wirtschaftsjahres der Änderung stille Reserven steuerwirksam aufgede"
+ESTG-NEW-012,"Herr Pfeifer ist nicht in der Lage, den Gewinn mit dem Sondersteuersatz von 27,5 % zu begünstigen. § 27b EStG gilt für Betriebsausgaben im Sinne des § 10 KStG und nicht für Zinsen oder Rückstellungen. Die Ausgabe der BTC als Zahlungsmittel"
+ESTG-NEW-013,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+ESTG-NEW-014,Ein Zinsüberhang ist in einem Wirtschaftsjahr grundsätzlich nur im Ausmaß von 30 Prozent des steuerlichen EBITDA abzugsfähig.
+ESTG-NEW-015,"Ja, Ihre Ansicht ist korrekt. Ein Zinsüberhang ist bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig, und die Steuer für Stablecoins-zu-Stablecoins-Tausche gilt als nicht steuerbar, da kein echter Kursgewinn vorliegt und beide Tokens denselben Basiswert"
+ESTG-NEW-016,"Zinsen für fremdfinanzierte Betriebsausgaben sind abzugsfähig, wenn die Anteile zum Betriebsvermögen zählen."
+ESTG-NEW-017,Für die Kalenderjahre ab 2024 beträgt die Körperschaftsteuer 23 Prozent.
+ESTG-NEW-018,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+ESTG-NEW-019,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG-NEW-020,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+VAT-DOM-001,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-DOM-002,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-DOM-003,"Der Verlustabzug bleibt erhalten, solange die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+VAT-DOM-004,"Die weiterverrechneten Eintrittsberechtigungen gehören zu den befreiten Beteiligungserträgen, da sie an einer inländischen Kapitalgesellschaft (die deutsche GmbH) verkauft werden."
+VAT-DOM-005,"Die Leistungsorte des Unternehmers und der Privatperson in Spanien sind nicht im Land Österreich, da sie über das Livestream kommunizieren. Daher gilt die Steuerpflicht für den österreichischen Unternehmer auch für die Auszahlung des Gewinns, da es sich um ein ausländisches Einkommen handelt."
+VAT-DOM-006,"Der Verlustabzug ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+VAT-DOM-007,"Bestimmte Gewinnanteile aus ausländischen Körperschaften können ebenfalls steuerfreie Beteiligungserträge sein, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+VAT-DOM-008,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-DOM-009,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+VAT-DOM-010,"Die Verfügungsmacht über die Maschine gilt für den österreichischen Kunden erst nach Ankunft in Graz. Daher ist der nicht mehr werthaltige Teil der Forderung steuerwirksam, da er im Auftrag des Verkäufers in Zürich liegt und nicht bei Verschaffung der Verfügungsmacht befindet."
+VAT-DOM-011,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-012,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+VAT-DOM-013,"Die österreichische Abnehmerin ist kein Wiederverkäufer und verbraucht den Strom in der Produktion, was die Zinsschranke aus dem § 12a KStG nicht anwendet."
+VAT-DOM-014,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-DOM-015,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+VAT-DOM-016,"Die Anlage ist bereits in Betrieb genommen und weitervermietet, was den Verlustabzug aufgrund eines Mantelkaufs nicht mehr anwendbar macht."
+VAT-DOM-017,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+VAT-DOM-018,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+VAT-DOM-019,"Für die persönliche Steuerpflicht ist maßgeblich, ob sich Sitz oder Geschäftsleitung im Inland befinden."
+VAT-DOM-020,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-DOM-021,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+VAT-DOM-022,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+VAT-DOM-023,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+VAT-DOM-024,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-025,"Die 3.000 Euro, die der Unternehmer an eine Behörde zahlt und den Kunden im Namen weiterleitet, sind nicht als Beteiligungsertrag zu begegnen, da sie nicht für die Erwerbs- oder Wirtschaftsgenossenschaft des Unternehmers verwendet werden. Sie gehören stattdessen zur Rechnung des Kunden und"
+VAT-DOM-026,"Bei beschränkt Steuerpflichtigen gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten, sofern nicht eine Veranlagung vorgeschrieben ist."
+VAT-DOM-027,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-DOM-028,"Der Drittbetrag von 8.000 Euro, zugesprochen an die Agentur und zu erhaltenen Dienstleistungen, gehört zu den befreiten Beteiligungserträgen gemäß § 10 KStG."
+VAT-DOM-029,"Die Bemessungsgrundlage für die Verwendung der Rohstoffe und das Geld entspricht dem Grundsatz, dass Einlagen und Beiträge von Gesellschaftern oder Mitgliedern bei der Ermittlung des Einkommens grundsätzlich außer Ansatz bleiben."
+VAT-DOM-030,"Die Einführungsgewinnsteuer nach § 5 UStG ist für den Fall berechtigt, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+VAT-DOM-031,"Der Veräußerer kann die übernommenen Schulden vom Entgelt abziehen, da sie wirtschaftlich Teil des Kaufpreises sind."
+VAT-DOM-032,"Die Umsatzsteuer ordnet § 4 UStG an, die Leistung zu legen, die dem Steuerabzug unterliegt."
+VAT-DOM-033,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-034,"Die Kosten, die nach § 5 UStG in die Bemessungsgrundlage einzubeziehen sind, sind diejenigen, die unmittelbar ansteuern, als sie mit steuerpflichtigen Erträgen und Einnahmen zusammenhängen."
+VAT-DOM-035,"Die Tätigkeit des gesetzlichen Aufsichtsrats als Kontrolltätigkeiten ist nicht eigenverantwortlich und daher nicht im Sinne des § 2 Abs. 1 UStG zu betrachten. Sie gilt als steuerwirksamer Betrieb gewerblicher Art von Körperschaften des öffentlichen Rechts, die unter dem Gesetzste"
+VAT-DOM-036,"Ein Bundesorgan, das gegen laufendes Entgelt die Benützung eines Teils staatlicher Eisenbahninfrastruktur durch ein privates Unternehmen ermöglicht und argumentiert, dass es hoheitlich handle, ist nicht steuerpflichtig. Dies gilt nach § 2 UStG als Dienstleistung ohne Gewerbesteuer."
+VAT-DOM-037,Der Betrag ist nicht mehr werthaltig und wird daher steuerwirksam.
+VAT-DOM-038,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-039,"Die Ware ist aus einem Drittstaat eingeführt und trägt nicht den österreichischen Namen. Sie wird daher nicht unter § 5 UStG für Gewerbebetrieb erfasst, da es sich um eine Ausfuhr von einer anderen Mitgliedstaatschaft handelt."
+VAT-DOM-040,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-DOM-041,"Die Lieferung nach § 7 UStG ist steuerfrei, da die Gewinnermittlung nach § 5 EStG auf den Gewinn erfolgt, obwohl der Abnehmer nicht ausländisch ist."
+VAT-DOM-042,"Die Zweigniederlassung ist ausländischer Abnehmer, da sie in einer EU-Mitgliedstaat unterhalten und ausschließlich finanziell mit der Gruppe verbunden sind."
+VAT-DOM-043,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-DOM-044,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-045,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-046,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-DOM-047,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-048,"Der Unternehmer erhält Stoffe für die Herstellung eines Gegenstands, rechnet nach Werklohn und exportiert den Gegenstand in die Türkei. Nach § 8 KStG ist dieser Vorgang steuerwirksam, da der nicht mehr werthaltige Teil des Forderungsverzichts steuerpflichtig."
+VAT-DOM-049,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-DOM-050,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-051,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-052,"Die Küstenfischerei kann die Befreiung nach § 9 Abs. 1 Z 3 in Anspruch nehmen, da sie als Bordproviant direkt an Bord geliefert wird und somit nicht ausländischem Finanzierungsinstrumente gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den B"
+VAT-DOM-053,"Unbeschränkt steuerpflichtig sind Körperschaften, die im Inland ihre Geschäftsleitung oder ihren Sitz haben."
+VAT-DOM-054,"Die Luftfahrzeugbeteiligungen sind nicht im Sinne des § 10 KStG zu befreien, da sie nicht ausschließlich auf Auslandsstrecken fliegen."
+VAT-DOM-055,"Die Befreiung anwendbar ist, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+VAT-DOM-056,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+VAT-DOM-057,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-058,Nicht abgezogen werden dürfen Geldbeschaffungs- und Nebenkosten sowie bestimmte in § 12 Abs. 1 Z 9 oder 10 genannte Aufwendungen.
+VAT-DOM-059,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-DOM-060,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-DOM-061,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-DOM-062,"Bei einer Rückkehr eines ausländischen Körperschaftsgegenstands, der nicht mehr werthaltig ist, gilt die steuerliche Behandlung entsprechend § 8 KStG."
+VAT-DOM-063,"Die Zwischenlagerung eines Teils der hergestellten Gegenstände im Inland kann die Befreiung für die vorübergehende Verwendung nicht scheitern, da sie nicht direkt zur Ausführung in den Drittstaat führt. Sie gilt als internationale Schachtelbeteiligung und wird daher unter dem § 10 KStG beg"
+VAT-DOM-064,"Die Unentgeltlichkeit der Rollstühle, Blindenhilfsmittel und Kommunikationsgeräte auf Bedürftige kann rechtlich relevant sein, wenn sie gemäß § 10 KStG als steuerfreie Beteiligungsertrag betrachtet."
+VAT-DOM-065,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkter Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+VAT-DOM-066,"Die verschärften Mengenbeschränkungen sind für Grenzarbeiter nicht zwingend anzuwenden, wenn sie nicht durch eine Veranlagung vorgeschrieben sind."
+VAT-DOM-067,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+VAT-DOM-068,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-069,"Die Bank bietet ein Finanzpaket an, das die Verwahrung von Wertpapiern und Kauf-Verkaufsoperationen umfasst. Die Steuerbefreiung für solche Betriebsausgaben gilt im Sinne des § 10 KStG, soweit die Anteile zum Betriebsvermögen zählen."
+VAT-DOM-070,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+VAT-DOM-071,Gruppenmitglieder können nicht Mitbeteiligte einer Beteiligungsgemeinschaft sein.
+VAT-DOM-072,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-DOM-073,"Die Gewinnanteile aus den inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften, die im Drittlandsgebiet abgewickelt werden, gehören zu den befreiten Beteiligungserträgen gemäß § 10 KStG."
+VAT-DOM-074,"Die wirtschaftliche Zusammenhangigkeit mit dem Import und die Kosten der Beförderung können als Grundlage für den Steuerpflichtigen gewesen sein, da sie im konkreten Fall nicht in die Bemessungsgrundlage der Einfuhr einbezogen wurden."
+VAT-DOM-075,"Die Ausländische Steuerbefreiung für Beteiligungserträgen gilt nicht für Leistungen an eine ausländische Diplomatie. Die Voraussetzungen zur Steuerfreiheit liegen auf dem Formelgeschäft und nicht auf den verwendeten Mitteln oder den Betrag, den man ernimdet."
+VAT-DOM-076,Eine Privatstiftung kann Zuwendungen an Begünstigte und Letztbegünstigte auch nicht als Sonderausgaben abziehen.
+VAT-DOM-077,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-DOM-078,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-DOM-079,"Die Betriebsausgaben, die von Versicherungsunternehmen für versicherungstechnische Zwecke zuführt und Rücklagen sowie Prämienrückerstattungen nach § 15 bis 17 KStG enthalten, sind als Betriebsausgaben anerkannt."
+VAT-DOM-080,Eine Privatstiftung kann Zuwendungen an Begünstigte und Letztbegünstigte auch nicht als Sonderausgaben abziehen.
+GRESt-AT-001,"Die Erwerbsteuer für das Grundstück der Tochter-GmbH kann nicht aus dem Erwerb von Kapitalanteilen abgezogen werden, da die Liegenschaft in Graz nicht als Betriebsstätte unterhalten wird."
+GRESt-AT-002,"Die Anteile an einer Grundbesitzenden OG, die durch Bestandsänderungen zu neuen Gesellschaftern übertragen werden, können nicht mehr als Betriebsausgabe abgezogen werden."
+GRESt-AT-003,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+GRESt-AT-004,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-005,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-006,Der Verlustabzug steht grundsätzlich nur im Ausmaß von 75 Prozent des Gesamtbetrags der Einkünfte zu.
+GRESt-AT-007,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-008,"Die Tochter muss den Betrag von 1.200.000 Euro nicht übersteigen, da sie ihn für die Zugangsbeteiligungsstiftung steuerfrei verwendet."
+GRESt-AT-009,"Der Grundstückswert tritt nicht zur Stelle, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+GRESt-AT-010,"Die Körperschaftsteuer wird berechnet nach dem Einkommen oder bei beschränkt Steuerpflichtigen, basierend auf dem maßgebenden Gesamtbetrag der Einkünfte."
+GRESt-AT-011,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-012,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-013,"Für einen landwirtschaftlichen Betrieb, verkauft an einen Fremden nicht im Familienkreis, gilt die unbeschränkte Steuerpflicht."
+GRESt-AT-014,Die Steuerschuld bei einem gewöhnlichen Kaufvertrag über eine Immobilie entsteht nach Ablauf des Kalenderjahres.
+GRESt-AT-015,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+GRESt-AT-016,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+GRESt-AT-017,Die Körperschaftsteuer wird nach Ablauf des Kalenderjahres veranlagt.
+GRESt-AT-018,"Die Bemessungsgrundlage für die Grunderwerbsteuer bildet das Einkommen, das der unbeschränkt Steuerpflichtige innerhalb eines Kalenderjahres bezogen hat."
+GRESt-AT-019,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+GRESt-AT-020,"Die Grunderwerbsteuer für die Einräumung des Baurechts wird berechnet auf den Betrag der monatlichen Bauzinsen, soweit sie nicht von anderen Einkünften abgezogen werden können."
+GRESt-AT-021,"Bei beschränkt Steuerpflichtigen gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten, sofern nicht eine Veranlagung vorgeschrieben ist."
+GRESt-AT-022,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+GRESt-AT-023,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+GRESt-AT-024,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+GRESt-AT-025,"Zuwendungen an Belegschaftsbeteiligungsstiftungen sind insoweit steuerfrei, als sie dem Zugang von Beteiligungen oder dem dafür notwendigen Geldbetrag dienen und je Begünstigtem pro Kalenderjahr 4.500 Euro nicht übersteigen."
+GRESt-AT-026,"Steuerpflichtige, die zur Rechnungslegung verpflichtet sind, dürfen ein vom Kalenderjahr abweichendes Wirtschaftsjahr haben."
+GRESt-AT-027,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+GRESt-AT-028,"Die Grunderwerbsteuer fällt nicht an, da die Steuerpflicht nur auf österreichische Einkünfte und nicht auf ausländischen Einkünfte angewendet wird."
+GRESt-AT-029,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-030,Die Entschädigung für die Wertminderung wird als Sonderausgabe abzuziehen.
+GRESt-AT-031,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-032,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+GRESt-AT-033,Der Wert des Grundstücks bei der unentgeltlichen Übertragung eines land- und forstwirtschaftlichen Grundstücks als Wert des Grundstückes ist grundsätzlich von 75 Prozent des Gesamtbetrags der Einkünfte zu ziehen.
+GRESt-AT-034,"Ein Steuerschuldner kann nachweisen, dass der tatsächliche Wert eines Grundstücks geringer ist als der pauschal berechnete Grundstückswert, indem er die Verordnung zur Erhebung von Steuern verwendet. Nach dem § 24 KStG wird die Veranlagung auf den Einkommen oder bei beschränk"
+GRESt-AT-035,"Ein Erwerbsvorgang im Sinne des GrEStG ist unentgeltlich, wenn die Gegenleistung im Verhältnis zum Grundstückswert nicht mehr als 75 Prozent beträgt."
+GRESt-AT-036,"Die Privatrechtliche Stiftung erhält ein Grundstück unentgeltlich und es fällt keine Stiftungseingangssteuer an. In diesem Fall besteht kein Zuschlag zur Grunderwerbsteuer, da die Erhaltung des Grundstücks nicht als Steuersatz für den Eigentlichen Zweck dienen kann."
+GRESt-AT-037,"Bei beschränkt Steuerpflichtigen gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten, sofern nicht eine Veranlagung vorgeschrieben ist."
+GRESt-AT-038,"Die Abgabenerklärung für den Nachlass muss bis zum 30. Juni eingereicht werden, soweit sie unter Vorlage eines gültigen Europäischen Nachlasszeugnisses erfolgt ist."
+GRESt-AT-039,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+GRESt-AT-040,"Die Sanierungsausnahme gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+GRESt-AT-041,"Ja, es gibt eine steuerpflichtige Anteilsvereinigung. Die drei GmbHs erwerben gemeinsam die gesamte Anteilswertung und werden zu 100% von einer natürlichen Person gehalten, obwohl sie nicht alle selbstständig sind."
+GRESt-AT-042,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+GRESt-AT-043,"Die zu steuerlosen Zuwendungen an die Tochter beträte 400.000 Euro, während der Rest des Betrages von 600.000 Euro als Einkommen gemeldet wird."
+GRESt-AT-044,"Die Körperschaftsteuer wird berechnet nach dem Einkommen, das in diesem Fall 250.000 Euro beträgt."
+GRESt-AT-045,Der Verlustabzug steht grundsätzlich nur im Ausmaß von 75 Prozent des Gesamtbetrags der Einkünfte zu.
+GRESt-AT-046,"Ja, der Käufer kann den niedrigeren Gutachtenwert von 290.000 Euro für die Berechnung der Grunderwerbsteuer geltend machen, da er eine wesentliche Strukturänderung durchgeführt hat und somit nicht mehr auf den gesetzlichen Einkommensstand zurückzuführen ist."
+GRESt-AT-047,Die Körperschaftsteuer beträgt 24 Prozent für das Kalenderjahr 2023.
+GRESt-AT-048,"Die Körperschaftsteuer entsteht nach Ablauf des Kalenderjahres, also am 31. Dezember 2025."
+GRESt-AT-049,"Die Steuerschuldner bei einer GmbH mit vier Gesellschaftern, die drei ausgeschlossen haben und 75% der Anteile auf neue Personen übergehen lassen, sind die vier übrigen Gesellschaftern."
+GRESt-AT-050,"Zinsen für fremdfinanzierte Beteiligungserwerbe dürfen abgezogen werden, wenn die Anteile zum Betriebsvermögen zählen."
+GRESt-AT-051,"Die Grunderwerbsteuer darf in Österreich selbst berechnet werden, wenn die Körperschaft bezogen hat Einkünfte im Kalenderjahr. Die Selbstberechnung erfolgt innerhalb eines kalibrierten Zeitraums von drei Monaten nach dem endenden Kalenderjahr."
+GRESt-AT-052,"Der Körperschaftsteuer ist das Einkommen zugrunde zu legen, das der unbeschränkt Steuerpflichtige innerhalb eines Kalenderjahres bezogen hat."
+GRESt-AT-053,Die Körperschaftsteuer wird nach Ablauf des Kalenderjahres veranlagt.
+GRESt-AT-054,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+GRESt-AT-055,"Finanzamt muss mindestens 75% der Stimmrechte an einer börsennotierten Gesellschaft erwirtschaften, um die Zinsen für fremdfinanzierte Beteiligungserwerbe als Betriebsausgabe abzugsfähig zu beklämen."
+GRESt-AT-056,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+GRESt-AT-057,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+GRESt-AT-058,"Ja, die Erwerbsteuer gilt für den Betrieb von Kapitalanteilen im Sinne des § 10 KStG."
+GRESt-AT-059,Die geänderten Selbstberechnungsregeln werden nach Ablauf des Kalenderjahres 2024 in Kraft.
+GRESt-AT-060,"Die Abgabenerklärung in Österreich muss bis zum 10. März 2026 eingereicht werden, da das Europäische Nachlasszeugnis am 10. März 2025 ausgestellt wurde und die Körperschaftsteuer nach Ablauf des Kalenderjahres veranlagt wird."
+GRESt-AT-061,"Bei beschränkt Steuerpflichtigen gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten, sofern nicht eine Veranlagung vorgeschrieben ist."
+GRESt-AT-062,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+GRESt-AT-063,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+GRESt-AT-064,"Der Verlustabzug steht ab jenem Zeitpunkt nicht mehr zu, ab dem die Identität des Steuerpflichtigen infolge einer wesentlichen Strukturänderung auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist."
+GRESt-AT-065,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+GRESt-AT-066,"Ja, der Erwerb als unentgeltlich gilt, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+GRESt-AT-067,Körperschaftsteuerpflichtig sind nur Körperschaften.
+GRESt-AT-068,"Bei beschränkt Steuerpflichtigen gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten, sofern nicht eine Veranlagung vorgeschrieben ist."
+GRESt-AT-069,Eine Privatperson verkauft ihr in Wien gelegenes Einfamilienhaus mittels schriftlichem Kaufvertrag an einen fremden Dritten. Der Vertrag begründet unmittelbar den Anspruch des Käufers auf Übereignung. Die Grunderwerbsteuer gilt für alle Einkünfte im Sinne des § 7
+GRESt-AT-070,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+GRESt-AT-071,"Ja, dieser Vorgang ist steuerbar nach dem GrEStG 1987. Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Gesetzes."
+GRESt-AT-072,Die Bemessungsgrundlage für den Verlustabzug bei unentgeltlicher Verschenung einer Liegenschaft ist die Gesamtbetragsnorm des Einkommens.
+GRESt-AT-073,Einkommen ist grundsätzlich der Gesamtbetrag der Einkünfte nach Verlustausgleich und nach Abzug der Sonderausgaben sowie des Freibetrags für begünstigte Zwecke.
+GRESt-AT-074,Eine Privatstiftung kann Zuwendungen an Begünstigte und Letztbegünstigte auch nicht als Sonderausgaben abziehen.
+GRESt-AT-075,"Ist eine nach § 5 oder nach anderen Bundesgesetzen befreite Körperschaft nur teilweise unbeschränkt steuerpflichtig, dürfen Aufwendungen nur insoweit abgezogen werden, als sie mit steuerpflichtigen Erträgen und Einnahmen unmittelbar zusammenhängen."
+GRESt-AT-076,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+GRESt-AT-077,"Bestimmte Gewinnanteile aus ausländischen Körperschaften können ebenfalls steuerfreie Beteiligungserträge sein, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+GRESt-AT-078,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+GRESt-AT-079,"Unbeschränkt steuerpflichtig sind Körperschaften, die im Inland ihre Geschäftsleitung oder ihren Sitz haben."
+GRESt-AT-080,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+GRESt-AT-081,"Die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, gilt grundsätzlich durch den Steuerabzug als abgegolten."
+VAT-INTL-001,"Der Verlustabzug steht ab jenem Zeitpunkt nicht mehr zu, ab dem die Identität des Steuerpflichtigen infolge einer wesentlichen Strukturänderung auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist."
+VAT-INTL-002,"Aufwendungen nach § 20 Abs. 1 Z 2 lit. b EStG, die nach allgemeiner Verkehrsauffassung unangemessen hoch sind, dürfen nicht abgezogen werden."
+VAT-INTL-003,"Leistungen gegen Entgelt gleichgestellt werden, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+VAT-INTL-004,Die Verwendung eines dem Unternehmen zugeordneten Gegenstandes für private Zwecke oder für den Bedarf des Personals gilt als andere Leistung und nicht für die persönliche Steuerpflicht.
+VAT-INTL-005,"Unbeschränkt steuerpflichtig sind Körperschaften, die im Inland ihre Geschäftsleitung oder ihren Sitz haben."
+VAT-INTL-006,"Im Fall einer tauschähnlichen Umsatzstruktur, bei der eine Körperschaft von einer unbeschränkt steuerpflichtigen Ausländischen Körperschaft zu einem Betrieb gewerblicher Art übernimmt und den Gewinn nach § 5 EStG ermittelt."
+VAT-INTL-007,"Die Überlassung eines gleichartigen Gegenstandes anstelle des herzustellenden Gegenstands als sonstige Leistung gilt, wenn sie nicht abzugsfähig ist."
+VAT-INTL-008,"Für die Einkommensermittlung ist es auch ohne Bedeutung, ob das Einkommen entnommen oder in anderer Weise verwendet wird."
+VAT-INTL-009,"Eine Werkleistung ist eine spezifische Art von Aufwand, die für den Zweck einer Körperschaft im Sinne des § 7 KStG definiert wird. Sie besteht aus einer spezifischen Arbeit oder Handlung, die nicht direkt mit dem Betrieb der Körperschaft selbst zusammenhängt, sondern ausschließlich zur Erbringung von"
+VAT-INTL-010,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-INTL-011,"Die UStG grenzt Lieferungen von sonstigen Leistungen ab, indem sie die Steuerpflicht an den Sitz des Betreibers festlegt."
+VAT-INTL-012,"Eine unentgeltliche sonstige Leistung ist als entgeltlich zu betrachten, wenn sie für den Zweck des Steuerpflichtigen verwendet wird und die gesetzlichen Voraussetzungen erfüllt sind."
+VAT-INTL-013,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+VAT-INTL-014,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+VAT-INTL-015,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-016,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+VAT-INTL-017,"Der Umsatz liegt vor, wenn die Verarbeitung eines Tisches aus dem Lager nicht mehr erforderlich ist und somit den Werklohnstandpunkt betritt."
+VAT-INTL-018,"Ein Eventmanager, der Catering-Leistungen durch einen Drittanbieter organisiert und verkauft, gilt als unbeschränkte Steuerpflichtige. Folglich muss die Körperschaftsteuer für den Leistungsvertrag abgegolten werden."
+VAT-INTL-019,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-INTL-020,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-021,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-INTL-022,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-INTL-023,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-INTL-024,"Die steuerliche Leistungsorte für die Mobilfunkrechnungen des österreichischen Anbieters liegen in den USA, da er dort seinen Sitz hat und seine Geschäftsleitung auch."
+VAT-INTL-025,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-INTL-026,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-INTL-027,"Die Leistung ist steuerbar nach § 1 KStG, da sie aus österreichischen Einkünften (Mietrecht) und aus einer ausländischen Rechtslage (Japanische Privatperson) stammt."
+VAT-INTL-028,"Nichtrechtsfähige Personenvereinigungen, Anstalten und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-INTL-029,"Ein Influencer, der Werbung für ein neues Smartphone-Modell auf Instagram macht und das Gerät behält, erhält Gewinnanteile aus dem Teil des Umsatzes, den er nicht mehr gewinnt. Diese Gewinnanteile zählen nach § 10 KStG zu den Beteiligungserträgen und sind steuerlich verfügbare"
+VAT-INTL-030,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-INTL-031,"Die Leistung als IT-Spezialist ist steuerpflichtig, wenn sie innerhalb des Kalenderjahres von dem Kunden in Australien erfolgt und die Datenverarbeitung für die private Ahnenforschung erfolgt."
+VAT-INTL-032,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-INTL-033,"Die Leistungsorte für die Erträgen aus Genussrechten und Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich liegen in Österreich, während die internationale Schachtelbeteiligung als Teil des Befreiungssystems nach § 10 KStG behandelt wird."
+VAT-INTL-034,§ 12a KStG ist auf unbeschränkt steuerpflichtige Körperschaften sowie auf beschränkt steuerpflichtige Körperschaften mit inländischer Betriebsstätte anzuwenden.
+VAT-INTL-035,"Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen gelten Aufwendungen als Betriebsausgaben, soweit sie mit Einlagen und Beiträgen nach § 8 Abs. 1 in unmittelbarem wirtschaftlichen Zusammenhang stehen."
+VAT-INTL-036,Die Leistungsorte nach § 3a Abs. 16 UStG können sich in zwei Richtungen verschieben: entlang des Gebiets oder entlang der Betriebsstätte.
+VAT-INTL-037,"Der Landwirt erhält Mehl aus dem Müllers Bestand, das ihm als Einkommen zugerechnet wird. Er muss daher die Steuerpflichtigkeit nach § 7 Abs. 3 KStG erkennen und den gesamten erworbenen Mehl steuerlich einzustufen."
+VAT-INTL-038,"Für die Weiterverrechnung einer Stadtführung für eine Reisegruppe besorgt von einem Reisebüro, gilt der Verlustabzug als Sonderausgabe abzuziehen."
+VAT-INTL-039,"Die Leistung des Cateringunternehmens in Wien erfolgt direkt im Messegewerbein, was die Anwendung von § 10 KStG für Beteiligungserträgen ermöglicht."
+VAT-INTL-040,Zu den Körperschaften zählen inländische juristische Personen des privaten Rechts und vergleichbare ausländische Rechtsgebilde.
+VAT-INTL-041,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-INTL-042,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-043,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-INTL-044,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-045,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-046,Gewinnanteile aus Partizipationskapital zählen nach § 10 KStG ebenfalls zu den Beteiligungserträgen.
+VAT-INTL-047,"Die Leistung als ausgeführt gilt in Linz, da die Filiale dort ihren Sitz hat."
+VAT-INTL-048,Gewinnanteile aus Partizipationskapital zählen nach § 10 KStG ebenfalls zu den Beteiligungserträgen.
+VAT-INTL-049,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+VAT-INTL-050,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-INTL-051,"Die Maklerleistung als sonstige Leistung im Zusammenhang mit einem Grundstück gilt, wenn sie zur Vermittlung des Grundstücks verwendet wird. Sie wird ausgeführt bei der Verhandlung und beim Austausch von Informationen über den Grundstücksbetrieb."
+VAT-INTL-052,"Für die persönliche Steuerpflicht ist maßgeblich, ob sich Sitz oder Geschäftsleitung im Inland befinden."
+VAT-INTL-053,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-054,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+VAT-INTL-055,"Bei Lagerungs- oder Umschlagsleistungen, die üblicherweise mit Transport verbunden sind und dem Empfänger ein Nichtunternehmer ist, gilt das Forderungsverzichtsrecht des Gesellschafters für den nicht mehr werthaltigen Teil der Forderung."
+VAT-INTL-056,"Reparaturarbeiten an beweglichen Gegenständen und Gutachten können als andere Leistungen betrachtet werden, wenn sie nicht direkt im Rahmen der Betriebserhöhung oder einer anderen spezifischen Zwecke vorgelegt sind."
+VAT-INTL-057,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-058,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-059,"Die Vermietung eines Motorboots für 2 Wochen in Hamburg als Ausführung steuerlich ausgeführt gilt unter § 7 Abs. 3 KStG, da es sich um Gewerbesteuer handelt."
+VAT-INTL-060,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+VAT-INTL-061,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-062,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+VAT-INTL-063,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-INTL-064,"Die Leistung des Software-Developers in Österreich ist steuerpflichtig, da sie unbeschränkt steuerpflichtige Körperschaften mit inländischer Betriebsstätte anwendbar sind."
+VAT-INTL-065,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-INTL-066,Gewinnanteile aus Partizipationskapital zählen nach § 10 KStG ebenfalls zu den Beteiligungserträgen.
+VAT-INTL-067,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+VAT-INTL-068,"Die Leistung ist steuerpflichtig, da sie ausländische Einkünfte (Frankfurter Würstchen) im Sinne des Einkommensteuergesetzes erbracht hat."
+VAT-INTL-069,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-INTL-070,"Die Leistung ist steuerpflichtig in Österreich, da sie aus österreichischen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen."
+VAT-INTL-071,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+VAT-INTL-072,"Die Leistung ist steuerpflichtig, da sie aus österreichischem Finanzierungsinstrument (Buchmärktebuch) gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich des Einkommensteuergesetzes zählt zu den Beteiligungserträgen."
+VAT-INTL-073,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+VAT-INTL-074,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-075,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-076,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-INTL-077,"Die Leistung ist steuerpflichtig, da sie ausländische Einkünfte im Sinne des Einkommensteuergesetzes erbracht hat."
+VAT-INTL-078,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+VAT-INTL-079,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+VAT-INTL-080,Gewinnanteile aus Partizipationskapital zählen nach § 10 KStG ebenfalls zu den Beteiligungserträgen.
+VAT-INTL-081,"Bei einer britischen Marketingagentur, die eine Werbekampagne für ein österreichisches Start-up entwickelt, ist die Leistung steuerpflichtig. Die Leistung wird im Sinne des Einkommensteuergesetzes (KStG) abzählen und daher auch von Österreichern zu steuerndem Einkommen gemäß § 1 KSt"
+VAT-INTL-082,"Die Leistung ist steuerpflichtig, da sie österreichische Einkünfte im Sinne des Einkommensteuergesetzes erbracht hat."
+ESTG27-001,"Die Dividenden aus der GmbH werden als befreiter Beteiligungsertrag behandelt, da sie im Betriebsvermögen des Erwerbers zählen. Die Anteile an den Aktien bleiben außer Ansatz bei der Einkommenssteuerberechnung."
+ESTG27-002,"Die Unterschiedsbetrag von 15.000 Euro ist steuerpflichtig, da sie nicht bis zu einem Betrage von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig bleibt."
+ESTG27-003,"Zinsen für fremdfinanzierte Beteiligungserwerbe sind abzugsfähig, wenn die Anteile zum Betriebsvermögen zählen."
+ESTG27-004,"Der Verlust von 8.000 Euro in Jahr 1 ist abzugsfähig, da er bis zum Ende des Wirtschaftsjahres der Änderung stille Reserven steuerwirksam aufgedeckt werden kann. In Jahr 2 können die Dividenden aus Aktien von 10.000 Euro mit dem Verlust zusammenge"
+ESTG27-005,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-006,"Zinsen für fremdfinanzierte Beteiligungserwerbe sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-007,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-008,Die Steuerpflicht für die Aktien und den Future-Kontrakt gilt nach § 27 EStG 1988.
+ESTG27-009,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen. Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den"
+ESTG27-010,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-011,Die steuerpflichtige Einkommensgrenze beträgt 30 Prozent des Gesamtbetrags der Einkünfte.
+ESTG27-012,"Zinsen im Zusammenhang mit der Fremdfinanzierung von Aktien in Österreich sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-013,"Ja, die Vorauszahlungen von 2.500 Euro im Mai und 2.000 Euro im November sind steuerpflichtige Einkünfte aus Kapitalvermögen nach § 27 EStG 1988, obwohl jede Einzelzahlung unter 4.000 Euro liegt."
+ESTG27-014,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-017,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+ESTG27-018,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-019,"Die Wegzugsteuer auf Aktien wird nicht festgesetzt, wenn die Auslandswerte nach § 27 EStG 1988 zurückgegangen sind."
+ESTG27-020,"Die Unterschiedsbetrag von 8.000 Euro ist steuerpflichtig, da sie nicht auf das aktuelle Betriebsvermögen zählen kann."
+ESTG27-021,"Ja, die Rückzahlung von 4.000 Euro an Herrn Baum ist Einkommen aus Kapitalanteilen nach § 10 KStG und daher abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-022,"Die Tauschvorgang nach § 27 EStG 1988 ist für Anteile an einer nicht unter dem Umgründungssteuergesetz (UStG) gelisteten GmbH zu behandeln. Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig,"
+ESTG27-023,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+ESTG27-024,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-025,"Zinsen für die Liquidationsquote als Betriebsausgabe sind abzugsfähig, soweit sie vom Betriebsvermögen zählen."
+ESTG27-026,"Die Untersuchung des steuerpflichtigen Betrags erfolgt über die §§ 27 und 15 bis 17 KStG. Die Zuführungen zu versicherungstechnischen Rückstellungen und Rücklagen sowie Prämienrückerstattungen sind als Betriebsausgaben abzugsfähig, was den Unterschiedsbetrag von"
+ESTG27-027,"Die Übertragung als Veräußerung gilt, da die Anteile zum Betriebsvermögen zählen und nicht zu einer anderen Person oder Organisation gehören."
+ESTG27-028,"Die Zuwendung von Frau Lang ist nicht abzugsfähig gemäß § 27 EStG 1988, da die Anteile zur Anschaffungskosten des Immobilievermögens gehören."
+ESTG27-029,"Die Zinszahlungen und die Ausgleichsbetrag sind abzugsfähig, soweit sie vom Betriebsvermögen zählen."
+ESTG27-030,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen im Sinne des § 10 KStG sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-031,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+ESTG27-032,"Die Ausschüttung von 6.000 Euro, die Frau Vogt von einer Flexible Kapitalgesellschaft erhält und für den Erwerb von Kapitalanteilen im Sinne des § 10 KStG verwendet, ist abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+ESTG27-033,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen. Ein Zinsüberhang ist bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig."
+ESTG27-034,"Die Überführung nach § 27 EStG 1988 führt zu einer Veränderung der Steuerpflicht. Die Ausgabe von steuerfreien Gewinnanteilen aus ausländischen Körperschaften kann nicht mehr erfolgen, da die gesetzlichen Voraussetzungen erfüllt sind."
+ESTG27-035,"Der Verlust von 12.000 Euro ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+ESTG27-036,"Die Vorgänge sind steuerlich abzugsfähig, da die Anteile zu Bank A's Betriebsvermögen zählen."
+ESTG27-037,"Die übernommene Kapitalertragsteuer von 4.750 Euro für Herrn Rau ist steuerlich relevant, da sie den Zugang zum Finanzamt ermöglicht und nicht aufgrund ihres Betrags oder dessen Nutzung angesprochen wird."
+ESTG27-038,"Die Gewinnanteile aus Kapitalvermögen, einschließlich von einer GmbH zu einer anderen GmbH oder von einer Kommanditgesellschaft in die eigene Gesellschaft, sind nicht als Einkünfte für § 27 EStG zu betrachten. Sie gehören stattdessen zu den befreiten Beteiligungserträgen nach § 10 KSt"
+ESTG27-039,Ein Zinsüberhang ist bis zu 30 Prozent des Veräußerungswerts abzugsfähig.
+ESTG27-040,"Die Zuwendung von 15.000 Euro kann als Substanzauszahlung behandelt werden, da sie die Stiftung als Substantielle Auszahlung betrachtet und nicht zum Betriebsvermögen zählen."
+EMP-001,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+EMP-002,"Der Verlustabzug ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+EMP-003,"Bei beschränkt Steuerpflichtigen gilt die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, grundsätzlich durch den Steuerabzug als abgegolten, sofern nicht eine Veranlagung vorgeschrieben ist."
+EMP-004,"Unbeschränkt steuerpflichtig sind Körperschaften, die im Inland ihre Geschäftsleitung oder ihren Sitz haben."
+EMP-005,"Die freiwillige Abgangsentschädigung eines Managers, die nicht mehr arbeitet, ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+EMP-006,"Ja, der Angestellte muss die übernommenen Studiengebühren als Sonderausgabe abzuziehen betrachten."
+EMP-007,"Ein Außendienstmitarbeiter erhält für eine Dienstreise Taggelder in Höhe von 26,40 € pro Tag. Er fragt sich, ob er diesen Betrag in seiner Steuererklärung als Einkommen versteuern muss. Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpf"
+EMP-008,Einlagen und Beiträge von Gesellschaftern oder Mitgliedern bleiben bei der Ermittlung des Einkommens grundsätzlich außer Ansatz.
+EMP-009,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EMP-010,"Die Zahlung von 2.000 € in bar einer langjährigen Mitarbeiterin zum 25-jährigen Dienstjubiläum ist steuerfrei, da sie dem Zugang von Beteiligungen oder dem dafür notwendigen Geldbetrag dienen und je Begünstigtem pro Kalenderjahr nicht übersteigt."
+EMP-011,"Der Verlustabzug ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+EMP-012,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EMP-013,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+EMP-014,"Ist eine nach § 5 oder nach anderen Bundesgesetzen befreite Körperschaft nur teilweise unbeschränkt steuerpflichtig, dürfen Aufwendungen nur insoweit abgezogen werden, als sie mit steuerpflichtigen Erträgen und Einnahmen unmittelbar zusammenhängen."
+EMP-015,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+EMP-016,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EMP-017,"Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen gelten Aufwendungen als Betriebsausgaben, soweit sie mit Einlagen und Beiträgen nach § 8 Abs. 1 in unmittelbarem wirtschaftlichen Zusammenhang stehen."
+EMP-018,"Die Alterspensionszinsen fallen unter § 25 EStG, da sie als Sonderausgabe abzuziehen sind und nicht als Arbeitslosengeld oder andere Arbeiterzinsen angesehen werden."
+EMP-019,Eine Privatstiftung kann Zuwendungen an Begünstigte und Letztbegünstigte auch nicht als Sonderausgaben abziehen.
+EMP-020,"Die Kassiererin erhält einen Fixbetrag von 30 Euro, der als Teil ihres steuerpflichtigen Gehalts gewertet wird."
+EMP-021,Rückvergütungen von inländischen Erwerbs- und Wirtschaftsgenossenschaften nach § 8 Abs. 3 Z 2 zählen zu den Beteiligungserträgen.
+EMP-022,Bei Versicherungsunternehmen gelten Zuführungen zu versicherungstechnischen Rückstellungen und Rücklagen sowie Prämienrückerstattungen nach §§ 15 bis 17 KStG als Betriebsausgaben.
+EMP-023,"Für die Einkommensermittlung ist es auch ohne Bedeutung, ob das Einkommen entnommen oder in anderer Weise verwendet wird."
+EMP-024,"Nein, die Zahlungen aus dem Unterstützungssystem der Rechtsanwaltskammer zählen nicht als Arbeitslohn. Sie fallen unter den Betreuungs- und Pflichtzweckbeträgen, die nicht im Sinne des KStG § 8 Einlagen, Entnahmen und Einkommensverwendung abzuziehen sind."
+EMP-025,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EMP-026,Die unbeschränkte Steuerpflicht erstreckt sich auf alle in- und ausländischen Einkünfte im Sinne des Einkommensteuergesetzes.
+EMP-027,"Die Auszahlungen werden grundsätzlich außer Ansatz bleiben, da sie von den Gesellschaftern oder Mitgliedern nicht direkt im Einkommen der Firma entfallen."
+EMP-028,"Die Anteile sind steuerpflichtig, da sie den Zugang von Beteiligungen oder dem dafür notwendigen Geldbetrag dienen."
+EMP-029,"Der steuerpflichtige Teil wird berechnet nach dem Einkommen, das die unbeschränkte Steuerpflichtige bezogen hat."
+EMP-030,"Die regelmäßigen Zahlungen aus einer betrieblichen Privatstiftung von einem ehemaligen Arbeitgeber sind unbeschränkt steuerpflichtig, da sie die Geschäftsleitung oder den Sitz des Arbeitgebers im Inland haben."
+EMP-031,"Der Verlustabzug ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+EMP-032,"Ein Arbeitnehmer, der Teilweise in Pension und gleichzeitig eine gesetzliche Sozialversicherung-Pension bezieht, wird die Körperschaftsteuer grundsätzlich auf den Gesamtbetrag seiner Einkünfte zugrunde gelegt. Er trägt keine Steuer für das Geld, das er aus einer anderen Quelle erhält und somit nicht als"
+EMP-033,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EMP-034,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+EMP-035,"Der steuerpflichtige Arbeitslohn ist die gesamte Auszahlung, soweit sie nicht als Sonderausgabe abzuziehen ist."
+EMP-036,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+EMP-037,Einkommen ist grundsätzlich der Gesamtbetrag der Einkünfte nach Verlustausgleich und nach Abzug der Sonderausgaben sowie des Freibetrags für begünstigte Zwecke.
+EMP-038,Die gesetzliche österreichische Pension und die zusätzlichen Unterstützungsleistungen werden sowohl für die Steuerpflichtige Bewertung als auch für die steuerfreie Zuwendungen an Belegschaftsbeteiligungsstiftungen relevant.
+EMP-039,"Die Zahlung an die Ehefrau ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+EMP-040,Einkommen ist grundsätzlich der Gesamtbetrag der Einkünfte nach Verlustausgleich und nach Abzug der Sonderausgaben sowie des Freibetrags für begünstigte Zwecke.
+EMP-041,"Die Leistung als Sachbezug wird grundsätzlich nicht zu dem Gewinn des Unternehmens angewendet, da sie nicht im Rahmen der gewerblichen Betriebsarbeit erfolgt. Sie gilt stattdessen als Sonderausgabe und kann somit nicht direkt zur Steuerberechnung gehören."
+EMP-042,"Ist eine nach § 5 oder nach anderen Bundesgesetzen befreite Körperschaft nur teilweise unbeschränkt steuerpflichtig, dürfen Aufwendungen nur insoweit abgezogen werden, als sie mit steuerpflichtigen Erträgen und Einnahmen unmittelbar zusammenhängen."
+EMP-043,Für die Privatfahrten als steuerpflichtiger Sachbezug ist der Sitz oder die Geschäftsleitung im Inland entscheidend.
+EMP-044,Der Sachbezug des Arbeitnehmers berechnet sich als Gesamtbetrag der Einkünfte minus Sonderausgaben und Freibetrags für begünstigte Zwecke. In diesem Fall beträte die Höhe des Sachbezugs 8.000€ - (50€ + Verlustabzug).
+EMP-045,"Ja, die Ausgabe des Klimaticets als steuerfreien Sonderausgabe gilt, da es zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze führt."
+EMP-046,Ein Zinsüberhang ist jedenfalls bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+EMP-047,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EMP-048,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+EMP-049,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EMP-050,"Ja, Mitarbeiter B bekommt die Pendlerpauschale. Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EMP-051,"Ein Mitarbeiter, der Teilzeit angestellt ist und 9-mal im Monat zum Arbeitsplatz fährt, hat Anspruch auf die Pendlerpauschale. Die Höhe dieses Anspruchs beträgt etwa 75 Prozent des Gesamtbetrags seiner Einkünfte."
+EMP-052,Die Steuerpflicht für die Mitarbeiterin besteht von der Stelle oder Geschäftsleitung im Inland.
+EMP-053,"Der Chef kann die Yoga-Kursleiterin als Begünstigte anbieten, wobei die Kosten für die Kurse steuerfrei sind."
+EMP-054,"Für die persönliche Steuerpflicht ist maßgeblich, ob sich Sitz oder Geschäftsleitung im Inland befinden."
+EMP-055,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EMP-056,"Zuwendungen an Belegschaftsbeteiligungsstiftungen sind insoweit steuerfrei, als sie dem Zugang von Beteiligungen oder dem dafür notwendigen Geldbetrag dienen und je Begünstigtem pro Kalenderjahr 4.500 Euro nicht übersteigen."
+EMP-057,"Arbeitnehmer A kann insoweit steuerfrei ausbezahlt werden, als seine Zuwendungen dem Zugang von Beteiligungen oder dem dafür notwendigen Geldbetrag dienen und je Begünstigtem pro Kalenderjahr 4.500 Euro nicht übersteigen."
+EMP-058,"Für die persönliche Steuerpflicht ist maßgeblich, ob sich Sitz oder Geschäftsleitung im Inland befinden."
+EMP-059,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+EMP-060,"Zuwendungen an Belegschaftsbeteiligungsstiftungen sind steuerfrei, wenn sie dem Zugang von Beteiligungen oder dem dafür notwendigen Geldbetrag dienen und je Begünstigtem pro Kalenderjahr 4.500 Euro nicht übersteigen."
+EStG-23-001,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+EStG-23-002,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EStG-23-003,"Die Verluste bleiben abzugsfähig, bis zum Ende des Wirtschaftsjahres der Änderung stille Reserven steuerwirksam aufgedeckt werden."
+EStG-23-004,"Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen zählen ebenfalls zu den Körperschaften im Sinne des KStG."
+EStG-23-005,"Unbeschränkt steuerpflichtig sind Körperschaften, die im Inland ihre Geschäftsleitung oder ihren Sitz haben."
+EStG-23-006,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+EStG-23-007,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+EStG-23-008,"Die Einnahmen von einer Lifestyle-Influencerin, die Beiträge erhält und Produkt Placements durch Unternehmen betreibt, bleiben grundsätzlich außer Ansatz bei der Einkommensermittlung. Sie sind nicht als Gewerbesatz zu beurteilen, da sie nicht direkt im Betrieb eines Unternehmens gesetzt oder produziert werden."
+EStG-23-009,Verbandsgeldbußen nach dem Verbandsverantwortlichkeitsgesetz sind nicht abzugsfähig.
+EStG-23-010,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+EStG-23-011,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EStG-23-012,"Die Tippgeber-Provisionen gelten als Betriebsausgaben gemäß § 15 KStG, da sie von den Immobilienbüros bezogen werden und zur Verwaltung der Immobiliengeschäfte dienen."
+EStG-23-013,"Die Situation entspricht der Erklärung für Gewinnanteile aus Genussrechten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich, die als Beteiligungserträgen gelten und nicht zur Abzugsfähigkeit unterliegen."
+EStG-23-014,Auch Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts gelten als Körperschaften im Sinne des KStG.
+EStG-23-015,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EStG-23-016,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EStG-23-017,"Ein Gewerbebetrieb gemäß § 23 EStG ist nicht zu erwarten, da die Transaktionen von einer Online-Marktteilnahme ausgehen und kein gewerbliches Verkauf stattfindet."
+EStG-23-018,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EStG-23-019,"Bei bestimmten Förderungsstiftungen können Zuwendungen auf das Zuwendungsjahr und die folgenden neun Wirtschaftsjahre gleichmäßig als Betriebseinnahmen angesetzt werden, soweit sich aus dem Zweck kein kürzerer Zeitraum ergibt."
+EStG-23-020,"Der Verlustabzug steht ab jenem Zeitpunkt nicht mehr zu, ab dem die Identität des Steuerpflichtigen infolge einer wesentlichen Strukturänderung auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist."
+EStG-23-021,"Ja, Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig."
+EStG-23-022,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EStG-23-023,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+EStG-23-024,"Nein, er muss den Veräußerungsgewinn nicht mehr als gewerbliche Einkünfte versteuern. Er wird stattdessen den Verlustabzug unter § 8 Abs. 3 KStG betragen."
+EStG-23-025,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+EStG-23-026,"Ein Kommanditist, der völlig passiv ist und die Geschäfte nicht betreibt, kann seinen Gewinnanteil als eine Kapitalanlage betrachten. Er trägt keine Steuerpflicht für den Gewinnanteil, da er kein Gewerbebetrieb führt."
+EStG-23-027,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+EStG-23-028,"Der Verlustabzug auf die monatliche Vergütung für das Privatkraftwagenpkw ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+EStG-23-029,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+EStG-23-030,Auch Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts gelten als Körperschaften im Sinne des KStG.
+EStG-23-031,"Ein Einzelunternehmer muss einen allfälligen Aufgabegewinn versteuern, wenn er seinen Betrieb einbaut und nicht mehr zu verkaufen hat."
+EStG-23-032,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+EStG-23-033,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EStG-23-034,"Ja, stimmt das. Ein IT-Berater, der ausschließlich geistig tätig ist und nachhaltig arbeitet, kann als unbeschränkte Körperschaftsteuerpflichtige selbständige Arbeit betrachten. Er hat keine Gewerbebetrieb oder Ausländische Betriebsstätte unterhalten und hat keinen Konzern"
+EStG-23-035,"Bei einer GmbH & Co KG, die einzige Komplementär eine GmbH ist und ein Kommanditist erhält seinen Gewinnanteil, wird dieser unter § 23 KStG fallen."
+EStG-23-036,Einlagen und Beiträge von Gesellschaftern oder Mitgliedern bleiben bei der Ermittlung des Einkommens grundsätzlich außer Ansatz.
+EStG-23-037,"Ein Journalist, der selbständig Artikel für verschiedene Zeitungen schreibt und sich nicht als Gewerbebetrieb tätigt, kann die Zinsschranke ausklammern. Er gilt als Körperschaft im Sinne des KStG, da er keine Betriebsstätte unterhält und nicht vollständig in einen Konzernabschluss ein"
+EStG-23-038,Körperschaftsteuerpflichtig sind nur Körperschaften.
+EStG-23-039,"Die Einkünfte aus Gewerbebetrieb werden bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtig ermittelt."
+EStG-23-040,"Ja, stimmt das. Als Bauer betreibt er Landwirtschaft und verkauft eigene Produkte im Hofladen, was unter § 23 KStG gilt."
+EStG-23-041,Eine Privatstiftung kann Zuwendungen an Begünstigte und Letztbegünstigte auch nicht als Sonderausgaben abziehen.
+EStG-23-042,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+EStG-23-043,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+EStG-23-044,Eine Privatstiftung kann Zuwendungen an Begünstigte und Letztbegünstigte auch nicht als Sonderausgaben abziehen.
+EStG-23-045,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+EStG-23-046,"Ein atypisch stiller Gesellschafter, der am Gewinn, Verlust und Einkommen des Handelsunternehmens beteiligt ist, tritt aber nach außen hin nicht in Erscheinung. Seine Gewinnanteile werden als Einkünfte aus Kapitalvermögen oder als Gewerbebetrieb zu versteuern."
+EStG-23-047,"Ja, die Zinsen sind begünstigt und können als Einkünfte aus Gewerbebetrieb gemäß § 10 KStG begünstigt werden."
+EStG-23-048,Der Gewinn des Hobbygärtners wird zugerechnet als Einkommen aus Gewerbebetrieb.
+EStG-23-049,"Das steuerlich maßgebende Ergebnis eines Gruppenmitglieds wird jenem Wirtschaftsjahr des beteiligten Gruppenmitglieds oder Gruppenträgers zugerechnet, in das der Bilanzstichtag des Gruppenmitglieds fällt."
+EStG-23-050,"Ein Unternehmer, der ein Fast-Food-Restaurant betreibt und exakt nach Vorgabe des Franchise-Gebers operiert, hat die Selbstständigkeit für einen Gewerbebetrieb nicht gewonnen. § 23 EStG beschränkt Steuerpflichtigkeiten auf Körperschaften, die ihre Geschäftsleitung oder ihren Sitz im"
+EStG-23-051,"Ja, stimmt das. Ein Musikfestival als Gewerbebetrieb kann nach § 10 KStG nicht über mehrere Jahre hinweg verfügen, da es sich auf einen einzigen Zeitraum richtet und keine Nachhaltigkeit für die gesamte Betriebszeit erfordert."
+EStG-23-052,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EStG-23-053,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+EStG-23-054,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EStG-23-055,"Die Zahlungen als Einkünfte aus Gewerbebetrieb nicht mehr erlaubt, da die Identität des Steuerpflichtigen auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist."
+EStG-23-056,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften und vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist der Gewinn nach § 5 EStG zu ermitteln."
+EStG-23-057,Verbandsgeldbußen nach dem Verbandsverantwortlichkeitsgesetz sind nicht abzugsfähig.
+EStG-23-058,"Von der Zinsschranke ausgenommen sind bestimmte Stand-alone-Körperschaften, die nicht vollständig in einen Konzernabschluss einbezogen werden, über kein verbundenes Unternehmen verfügen und keine ausländische Betriebsstätte unterhalten."
+EStG-23-059,Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften gehören zu den befreiten Beteiligungserträgen.
+EStG-23-060,Bei einem Forderungsverzicht auf Seiten des Gesellschafters ist der nicht mehr werthaltige Teil der Forderung steuerwirksam.
+SELF-001,Für das Kalenderjahr 2023 beträgt die Körperschaftsteuer 24 Prozent.
+SELF-002,Die Bestimmung zur Entlastung der kalten Progression für 2026 wurde durch die Körperschaftsteuer von 23 Prozent auf 24 Prozent angepasst.
+SELF-003,"Für die persönliche Steuerpflicht ist maßgeblich, ob sich Sitz oder Geschäftsleitung im Inland befinden."
+SELF-004,"Die Kleinunternehmerbefreiung gilt für Gewinnanteile aus Beteiligungen an inländischen Kapitalgesellschaften und Erwerbs- und Wirtschaftsgenossenschaften, die nicht mehr als 20 % des Gesamtgewinns entsprechen."
+SELF-005,Für die Kalenderjahre ab 2025 beträgt der maximale Familienbonus Plus pro Kind unter 18 Jahren 439 Euro.
+SELF-006,"Das Gemeinnützigkeitsreformgesetz 2023 regelt das Steuerrecht für Zuwendungen an Belegschaftsbeteiligungsstiftungen, indem es die Grenze von 4.500 Euro festlegt, nachdem sie dem Zugang von Beteiligungen oder dem dafür notwendigen Geldbetrag dienen."
+SELF-007,"Zinsen im Zusammenhang mit der Fremdfinanzierung von Kryptowährungen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+SELF-008,"Ja, im Jahr 2024 beträgt die Körperschaftsteuer 23 Prozent."
+SELF-009,"Für die ökologische Investition ist es ohne Bedeutung, ob das Einkommen im Wege offener Ausschüttungen verteilt wird."
+SELF-010,Ein Sachbezug für ein emissionsfreies Elektro-Kraftfahrzeug beträgt 30 Prozent des steuerlichen EBITDA.
+SELF-011,Die Basis der Einkommensermittlung für Selbstständige ist grundsätzlich der Gesamtbetrag der Einkünfte nach Verlustausgleich und Abzug der Sonderausgaben sowie des Freibetrags für begünstigte Zwecke.
+SELF-012,Die Gruppenbesteuerung wurde durch die Steuerreform 2004/2005 im Bereich der Körperschaftsteuer eingeführt.
+SELF-013,Die Umgründungssteuergesetz (UmgrStG) greift nach Ablauf des Kalenderjahres.
+SELF-014,"Die Hauptleistungspflicht im Umsatzsteuergesetz 1994 besteht darin, dass die Leistungspflichten nach dem Einkommen oder bei beschränkter Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte bestimmt werden."
+SELF-015,"Strafen und Geldbußen, die von Gerichten, Verwaltungsbehörden oder Organen der Europäischen Union verhängt werden, sind nicht abzugsfähig."
+SELF-016,Die Steuerreform 2000 erhob die Körperschaftsteuer für Spekulationsgeschäfte von 19 auf 24 Prozent.
+SELF-017,Körperschaftsteuerpflichtig sind nur Körperschaften.
+SELF-018,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+SELF-019,"Der Verlustabzug ist als Sonderausgabe abzuziehen, soweit die gesetzlichen Voraussetzungen erfüllt sind."
+SELF-020,"Einbeitragsfreier Bezugsatz ist in der Regel ein Betrag, den eine Körperschaft für begünstigte Zwecke auszüchtet."
+SELF-021,"Wie das Einkommen zu ermitteln ist, bestimmt sich grundsätzlich nach dem Einkommensteuergesetz 1988 und dem Körperschaftsteuergesetz 1988."
+SELF-022,Der Dienstgeberbeitrag zum Familienlastenausgleichsfonds ist grundsätzlich 75 Prozent des Gesamtbetrags der Einkünfte zu.
+SELF-023,"Bestimmte Gewinnanteile aus ausländischen Körperschaften können ebenfalls steuerfreie Beteiligungserträge sein, wenn die gesetzlichen Voraussetzungen erfüllt sind."
+SELF-024,"Für die persönliche Steuerpflicht ist maßgeblich, ob sich Sitz oder Geschäftsleitung im Inland befindet."
+SELF-025,"Die Grunderwerbsteuer wurde durch das Budgetbegleitgesetz 2001 erweitert, um die Steuerpflichtigkeiten für unbeschränkte und beschränkte Einkünfte zu definieren."
+SELF-026,"Die Besonderheit der ""Vortragfähigkeit"" von Verlusten besteht darin, dass sie abzugsfähig bleiben, solange die gesetzlichen Voraussetzungen für den Abzug erfüllt sind."
+SELF-027,Die Versicherungspflichtgrenze für Neue Selbstständige beträgt 23 Prozent.
+SELF-028,"Der Kindermehrbetrag ist eine Steuerabzugsgrenze, die für Kinder unter 18 Jahren in Deutschland verwendet wird. Er steht grundsätzlich nur im Ausmaß von 75 Prozent des Gesamtbetrags der Einkünfte zu und kann bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugs"
+SELF-029,"Die degressive Abschreibung (AfA) ist ein Verfahren, bei dem die Steuerabzugsumsatz von einer Körperschaft abzüngelt, sobald die gesetzlichen Voraussetzungen für den Ausdruck des Einkommens erfüllt sind."
+SELF-030,Ein Zinsüberhang ist bis zu einem Betrag von 3 Millionen Euro pro Veranlagungszeitraum abzugsfähig.
+SELF-031,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+SELF-032,Das Zollgesetz definiert die Steuerpflichten für Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts.
+SELF-033,"Die Kapitalertragsteuer (KESt) ist ein Steuersatz, der für die Erzeugung von Kapitalerträgen verwendet wird. Sie erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte und basiert auf den gleichen Begriffen wie die"
+SELF-034,Die Sonderausgaben sind nicht direkt regelbar im Einkommensteuergesetz.
+SELF-035,"Die Vergnügungsteuer ist eine Steuer, die für beschränkte Körperschaften auf dem Gesamtbetrag der Einkünfte angewendet wird. Sie gilt grundsätzlich durch den Steuerabzug als abgegolten, sofern keine Veranlagung vorgeschrieben ist."
+SELF-036,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+SELF-037,"Zinsen im Zusammenhang mit der Fremdfinanzierung des Erwerbs von Kapitalanteilen sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+SELF-038,Nach der Steuerreform 2005 beträgt die Körperschaftsteuer 24 Prozent.
+SELF-039,"Finanziell verbundene Körperschaften können nach Maßgabe des § 9 KStG eine Unternehmensgruppe bilden, was auch für Gruppen mit privater Grundlage gilt."
+SELF-040,"Der Gewinnfreibetrag nach § 10 EStG ist die Summe des Gewinns, die nicht abzugsfähig sind."
+SELF-041,"Bei Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften sowie vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ist die Gewinnstrafe nach § 5 EStG zu ermitteln."
+SELF-042,"Der Gewinn nach § 4 Abs. 1 EStG wird für Betriebe gewerblicher Art, rechnungslegungspflichtige Erwerbs- und Wirtschaftsgenossenschaften sowie vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ermittelt."
+SELF-043,"Die Einkünfte aus Gewerbebetrieb (§ 23 EStG) werden für Körperschaften, die unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen sind, zugerechnet."
+SELF-044,§ 25 EStG zählt zu den Einkünften aus nichtselbstständiger Arbeit.
+SELF-045,Repräsentationsaufwendungen nach § 20 Abs. 1 Z 3 EStG sind nicht abzugsfähig.
+SELF-046,"Die Kosten für Lebensführung sind nicht steuerlich abzusuchen, da sie nach allgemeiner Verkehrsauffassung unangemessen hoch sind."
+SELF-047,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+SELF-048,"In Dienstverträgen, die keine Entgeltvereinbarung treffen, sind Rückvergütungen von inländischen Erwerbs- und Wirtschaftsgenossenschaften nach § 8 Abs. 3 Z 2 zu den Beteiligungserträgen gezählt."
+SELF-049,Rückvergütungen von inländischen Erwerbs- und Wirtschaftsgenossenschaften nach § 8 Abs. 3 Z 2 zählen zu den Beteiligungserträgen.
+SELF-050,"Nichtrechtsfähige Personenvereinigungen, Anstalten und andere Zweckvermögen gelten als Körperschaften im Sinne des KStG."
+SELF-051,§ 10 KStG ist auf unbeschränkt steuerpflichtige Körperschaften sowie auf beschränkt steuerpflichtige Körperschaften mit inländischer Betriebsstätte anzuwenden.
+SELF-052,Die Steuerschuld nach der BAO entsteht nach Ablauf des Kalenderjahres.
+SELF-053,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+SELF-054,"Das Zufluss-Abfluss-Prinzip (§ 19 EStG) ist ein Regler für die Steuerlast von Unternehmen, die sich auf verschiedene Geschäftsbereiche konzentrieren. Es ermöglicht es den Betrieben, ihre Steuern zu flüssigieren und abzufüllen, indem sie in bestimmten Zeitpunkten mehr"
+SELF-055,Repräsentationsaufwendungen nach § 20 Abs. 1 Z 3 EStG sind nicht abzugsfähig.
+SELF-056,Repräsentationsaufwendungen nach § 20 Abs. 1 Z 3 EStG sind nicht abzugsfähig.
+SELF-057,"Einnahmen nach § 15 EStG sind Gewinne, die von Betrieben gewerblicher Art, rechnungslegungspflichtigen Erwerbs- und Wirtschaftsgenossenschaften oder vergleichbaren unbeschränkt steuerpflichtigen ausländischen Körperschaften ermittelt werden."
+SELF-058,Repräsentationsaufwendungen nach § 20 Abs. 1 Z 3 EStG sind nicht abzugsfähig.
+SELF-059,"Unbeschränkt steuerpflichtig sind Körperschaften, die im Inland ihre Geschäftsleitung oder ihren Sitz haben."
+SELF-060,Repräsentationsaufwendungen nach § 20 Abs. 1 Z 3 EStG sind nicht abzugsfähig.
+SELF-061,"Die Formvorschriften für die Buchführung (§ 131 BAO) gelten für Privatstiftungen, die die Offenlegungsverpflichtungen gemäß Abs. 6 des § 13 KStG erfüllen."
+SELF-062,Bei unter § 7 Abs. 3 KStG fallenden Steuerpflichtigen werden alle Einkünfte den Einkünften aus Gewerbebetrieb zugerechnet.
+SELF-063,"Einlagen und Beiträge von Gesellschaftern bleiben außer Ansatz bei der Ermittlung des Einkommens, während Aufwendungen bei beschränkt steuerpflichtigen Körperschaften nur abgezogen werden können, wenn sie mit steuerpflichtigen Erträgen unmittelbar zusammenhängen."
+SELF-064,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+SELF-065,"Der Inhalt des Progressionsabgeltungsgesetzes 2025 besteht darin, die Steuersätze für die Kalenderjahre ab 2024 zu festlegen."
+SELF-066,Gewinnanteile aus inländischen Genussrechten und sonstigen Finanzierungsinstrumenten gemäß § 8 Abs. 3 Z 1 zweiter Teilstrich zählen zu den Beteiligungserträgen.
+SELF-067,"Die ökosoziale Steuerreform 2022 hatte als Ziel die Erhöhung der Steuerpflichtigen durch eine steigende Körperschaftsteuer, wobei die Veranlagung nach dem Einkommen oder bei beschränkter Steuerpflichtigkeit erfolgte."
+SELF-068,Verbandsgeldbußen nach dem Verbandsverantwortlichkeitsgesetz sind nicht abzugsfähig.
+SELF-069,Die Veranlagung erfolgt nach dem Einkommen oder bei beschränkt Steuerpflichtigen nach dem maßgebenden Gesamtbetrag der Einkünfte.
+SELF-070,"Eine Sicherheitseinrichtung für Registrierkassen ist verpflichtend, sobald sie die Offenlegungsverpflichtungen gemäß § 6 des Gesetzes über Privatstiftungen erfüllt."
+SELF-071,"Die Forschungsprämie wurde im Bereich der Steuerfreiheit geändert, indem sie nicht mehr abzugsfähig ist, sobald die Identität des Steuerpflichtigen auf entgeltlicher Grundlage wirtschaftlich nicht mehr gegeben ist."
+SELF-072,Für das Kalenderjahr 2025 beträgt der Alleinverdienerabsetzbetrag für ein Kind 30 Prozent des steuerlichen EBITDA abzugsfähig.
+SELF-073,"Die Beschränkung beim Mantelkauf gilt nicht, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+SELF-074,Die Steuerreform 2024 reduzierte die Körperschaftsteuer für Kleinunternehmer von 23 auf 22 Prozent.
+SELF-075,Das KMU-Förderungsgesetz regelt steuerlich die Steuern auf das Forderungsverzicht eines Gesellschafters.
+SELF-076,"Zinsen im Zusammenhang mit der Investitionsprämie für fremdfinanzierte Beteiligungserwerbe sind abzugsfähig, soweit die Anteile zum Betriebsvermögen zählen."
+SELF-077,"Ist eine nach § 5 oder nach anderen Bundesgesetzen befreite Körperschaft nur teilweise unbeschränkt steuerpflichtig, dürfen Aufwendungen nur insoweit abgezogen werden, als sie mit steuerpflichtigen Erträgen und Einnahmen unmittelbar zusammenhängen."
+SELF-078,"Die Pendlerpauschale wurde zeitweise geändert, insbesondere im Verlustabzug. Der Verlustabzug steht ab jenem Zeitpunkt nicht mehr zu, wenn die Änderungen zur Sanierung des Steuerpflichtigen mit dem Ziel der Erhaltung eines wesentlichen Teils betrieblicher Arbeitsplätze erfolgen."
+SELF-079,"Für die Kalenderjahre ab 2020 beträgt der Eingangssteuersatz für die Lohnsteuer 19,5 Prozent."
+SELF-080,"Die Jahressteuererklärung ist die Zeitraumübergangsmethode für die Körperschaftsteuer, bei der sie nach Ablauf des Kalenderjahres veranlagt wird."
+SELF-081,Für das Kalenderjahr 2023 beträgt die Körperschaftsteuer 24 Prozent.
+SELF-082,"Das Abgabenänderungsgesetz 2014 regelt die Steuerpflichtigkeit und die Abzugsfähigkeit von Aufwendungen für Zwecke des Steuerpflichtigen, einschließlich Repräsentationsaufwendungen nach § 20 Abs. 1 Z 3 EStG und Geldbeschaffungs- und Nebenkosten nach §"
