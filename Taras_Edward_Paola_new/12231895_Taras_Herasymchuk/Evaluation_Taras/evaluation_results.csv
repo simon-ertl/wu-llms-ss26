@@ -1,0 +1,4 @@
+Model,ROUGE-1,ROUGE-L,BERTScore-P,BERTScore-R,BERTScore-F1
+Model 1 - Inference (Mistral 7B),0.2073,0.1379,0.6733,0.7119,0.6913
+Model 2 - Fine-tuning (QLoRA),0.226,0.1649,0.7283,0.7146,0.7204
+Model 3 - RAG (Groq Llama),0.194,0.1317,0.653,0.7196,0.6841
