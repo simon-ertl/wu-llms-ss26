@@ -1,0 +1,4 @@
+Model,ROUGE-1 F1,ROUGE-2 F1,ROUGE-L F1,BERTScore F1
+GPT-2 large (Inference only),0.0821,0.0108,0.06,0.7743
+Llama 3.1 8B (Fine-Tuned, QLoRA),0.2427,0.0736,0.1654,0.8256
+Qwen2.5 + multilingual-E5 (RAG),0.2352,0.0755,0.1593,0.8129
